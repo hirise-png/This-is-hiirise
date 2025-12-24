@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GUNS.BIO-purple?style=for-the-badge&link=https%3A%2F%2Fguns.lol%2Fhirise"/>
-  <img src="https://img.shields.io/badge/FAKECRIME.BIO-yellow?style=flat&link=https%3A%2F%2Ffakecrime.bio%2FHirise"/>
+  <img src="https://img.shields.io/badge/SPOTIFY-GREEN?style=for-the-badge&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31rifxnzlbt5obcye7ajy5gkszxa%3Fsi%3Df1b5cbb71d34451e"/>
   <img src="https://img.shields.io/badge/FAKECRIME.BIO-yellow?style=for-the-badge&link=https%3A%2F%2Ffakecrime.bio%2FHirise"/>
 </p>
 <p align="center">
