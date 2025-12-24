@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/GUNS.BIO-purple?style=flat&link=https%3A%2F%2Fguns.lol%2Fhirise"/>
+  <img src="https://img.shields.io/badge/GUNS.BIO-purple?style=for-the-badge&link=https%3A%2F%2Fguns.lol%2Fhirise"/>
   <img src="https://img.shields.io/badge/FAKECRIME.BIO-yellow?style=flat&link=https%3A%2F%2Ffakecrime.bio%2FHirise"/>
-  <img src="https://img.shields.io/badge/FAVOURITE%20SONG-black?style=for-the-badge&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6r46lnXFbE9fr2d3KNaGbe%3Fsi%3Dd76943d4c97f47b4"/>
+  <img src="https://img.shields.io/badge/FAKECRIME.BIO-yellow?style=for-the-badge&link=https%3A%2F%2Ffakecrime.bio%2FHirise"/>
 </p>
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/311140930860351489?theme=dark"/>
